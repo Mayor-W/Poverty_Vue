@@ -1,71 +1,87 @@
+/* @font-face {
+    font-family: "iconfont";
+    //Project id 2726674 
+    src: url('./iconfont.woff2?t=1631533547811') format('woff2'), url('./iconfont.woff?t=1631533547811') format('woff'), url('./iconfont.ttf?t=1631533547811') format('truetype');
+} */
+
+
+/* 在线链接服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+
 @font-face {
-  font-family: "iconfont"; /* Project id 2726674 */
-  src: url('./iconfont.woff2?t=1631533547811') format('woff2'),
-       url('./iconfont.woff?t=1631533547811') format('woff'),
-       url('./iconfont.ttf?t=1631533547811') format('truetype');
+    font-family: 'iconfont';
+    /* Project id 4363932 */
+    src: url('//at.alicdn.com/t/c/font_4363932_v7t0b66f4gm.woff2?t=1702717619619') format('woff2'), url('//at.alicdn.com/t/c/font_4363932_v7t0b66f4gm.woff?t=1702717619619') format('woff'), url('//at.alicdn.com/t/c/font_4363932_v7t0b66f4gm.ttf?t=1702717619619') format('truetype');
 }
 
 .iconfont {
-  font-family: "iconfont" !important;
-  font-size: 16px;
-  font-style: normal;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .icon-liebiao:before {
-  content: "\e610";
+    content: "\e65c";
+}
+
+.icon-liebiao:before {
+    content: "\e628";
+}
+
+
+/* .icon-liebiao:before {
+    content: "\e610";
 }
 
 .icon-back:before {
-  content: "\e670";
+    content: "\e670";
 }
 
 .icon-gerenzhongxin1:before {
-  content: "\e653";
+    content: "\e653";
 }
 
 .icon-shenqing:before {
-  content: "\e61a";
+    content: "\e61a";
 }
 
 .icon-liuya:before {
-  content: "\e60e";
+    content: "\e60e";
 }
 
 .icon-gerenzhongxin:before {
-  content: "\ec9a";
+    content: "\ec9a";
 }
 
 .icon-icon-sanweifenxi:before {
-  content: "\e622";
+    content: "\e622";
 }
 
 .icon-yuqingjiankong:before {
-  content: "\e6d6";
+    content: "\e6d6";
 }
 
 .icon-tubiao:before {
-  content: "\e85f";
+    content: "\e85f";
 }
 
 .icon-renyuan:before {
-  content: "\e617";
+    content: "\e617";
 }
 
 .icon-shenduxuexi:before {
-  content: "\e606";
+    content: "\e606";
 }
 
 .icon-download:before {
-  content: "\e639";
+    content: "\e639";
 }
 
 .icon-fenxi:before {
-  content: "\e709";
+    content: "\e709";
 }
 
 .icon-ditu:before {
-  content: "\e6b6";
-}
-
+    content: "\e6b6";
+} */
